@@ -19,7 +19,7 @@ Our data was provided by ClimateData.ca, which was created through a collaborati
 
 - Person 1: one sentence about you!
 - Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Pyper Legge : I am a 4th year Earth and Environmental Science student, from Yellowknife NWT.
 
 ## Images
 
