@@ -32,3 +32,4 @@ Our data was provided by ClimateData.ca, which was created through a collaborati
 
 Data Source: Environment and Climate Change Canada and (ClimateData.ca)
 Image source: Coastal climate change infographic series www.coastadapt.com.au
+Code of Conduct source: Contributor Covenant (https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
