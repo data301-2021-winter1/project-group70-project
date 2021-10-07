@@ -23,7 +23,7 @@ Our data was provided by ClimateData.ca, which was created through a collaborati
 
 ## Images
 
-![RCP Meaning](RCP.JPG)
+![RCP Meaning](images/RCP.JPG)
 
 <img src ="images/test.png" width="100px">
 
