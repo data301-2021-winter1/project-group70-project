@@ -17,10 +17,9 @@ Our data was provided by ClimateData.ca, which was created through a collaborati
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Jason Hsiao: I am a 4th year computer science major from Taiwan. I am looking forward to learning some of the basic knowledges about data science!
 - Tara Behnsen: I am a 4th year EESC student from Germany and I am interested in sustainable resource management!
-- Person 3: one sentence about you!
-
+- Pyper Legge: I am a 4th year EESC student from Yellowknife NWT, I like to garden.
 ## Images
 
 ![RCP Meaning](images/RCP.JPG)
