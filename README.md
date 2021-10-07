@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5891909&assignment_repo_type=AssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+# The Future of Kelowna's Climate
 
 - Your title can change over time.
 
@@ -18,8 +18,8 @@ Our data was provided by ClimateData.ca, which was created through a collaborati
 ## Team Members
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Pyper Legge : I am a 4th year Earth and Environmental Science student, from Yellowknife NWT.
+- Tara Behnsen: I am a 4th year EESC student from Germany and I am interested in sustainable resource management!
+- Person 3: one sentence about you!
 
 ## Images
 
