@@ -23,7 +23,7 @@ Our data was provided by ClimateData.ca, which was created through a collaborati
 
 ## Images
 
-{You can use this area for any images you want to include}
+![RCP Meaning](RCP.JPG)
 
 <img src ="images/test.png" width="100px">
 
@@ -32,4 +32,4 @@ Our data was provided by ClimateData.ca, which was created through a collaborati
 {Add your stuff here}
 
 Data Source: Environment and Climate Change Canada and (ClimateData.ca)
-
+Image source: Coastal climate change infographic series www.coastadapt.com.au
