@@ -6,7 +6,9 @@ def cleanYear(data):
         data['Year'][x]=i
         i=i+1
     return data
-def load_and_process(path='../data/raw/Hottest_Day.csv' ):
+
+path='../data/raw/Hottest_Day.csv'
+def load_and_process(path):
     # Method Chain 1 (hist data processing)
 
     hist= (
@@ -15,6 +17,7 @@ def load_and_process(path='../data/raw/Hottest_Day.csv' ):
            [0:55]
             .dropna(axis='columns',how='all')
             .drop(columns=["Historical Range (high)","Historical Range (low)"])
+            .rename(columns={"DateTime": "Year"})
       
       )
 
@@ -22,14 +25,14 @@ def load_and_process(path='../data/raw/Hottest_Day.csv' ):
 
     proj= (
          
-          pd.read_csv(path='../data/raw/Hottest_Day.csv')
+          pd.read_csv(path)
       
            [56:151]
             .dropna(axis='columns',how='all')
             .drop(columns=["RCP 8.5 Range (high)","RCP 8.5 Range (low)","RCP 4.5 Range (high)","RCP 4.5 Range (low)","RCP 2.6 Range (high)","RCP 2.6 Range (low)"])
-        
+            .rename(columns={"DateTime": "Year"})
       )
     hist=cleanYear(hist)
     proj=cleanYear(proj)
-return (hist, proj) 
+    return (hist, proj) 
 
