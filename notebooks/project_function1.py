@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 def cleanYear(data):
     i=1950
     for x in range(151):
